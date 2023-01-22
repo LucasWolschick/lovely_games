@@ -1,0 +1,11 @@
+return {
+    WIDTH = 500,
+    HEIGHT = 400,
+    PADDLE_HEIGHT = 50,
+    PADDLE_WIDTH = 5,
+    BALL_RADIUS = 5,
+
+    PADDLE_SPEED = 200,
+    BALL_SPEED = 330,
+    SCORE_TIME = 1,
+}
